@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/LHPet/LHPet.csproj",
+      "projectUniqueName": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/LHPet2/LHPet.csproj",
       "projectName": "LHPet",
-      "projectPath": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/LHPet/LHPet.csproj",
+      "projectPath": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/LHPet2/LHPet.csproj",
       "packagesPath": "/Users/mailaguimaraes/.nuget/packages/",
-      "outputPath": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/LHPet/obj/",
+      "outputPath": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/LHPet2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mailaguimaraes/.nuget/NuGet/NuGet.Config"
